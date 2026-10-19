@@ -21,7 +21,7 @@ I am a Computer Science and Informatics Engineering student at Universidad Cató
 
 ### 📚 Academic Studies & Core Knowledge
 
-* **Data Structures & Algorithms:** Applied academic concepts such as linked lists, trees, and graphs, alongside logic like TF-IDF using Python, Java, and C++.
+* **Data Structures & Algorithms:** Applied fundamental academic concepts such as linked lists, trees, and graphs using Python, Java, and C++.
 * **Digital Logic & Computer Architecture:** Simulated sequential logic state machines and digital circuits using TinkerCAD and Karnaugh maps.
 * **Database Systems:** Studied relational database design and complex SQL querying.
 
