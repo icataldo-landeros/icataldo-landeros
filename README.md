@@ -3,9 +3,9 @@
 **Computer Science & Informatics Engineering Student** 
 📍 Based in Chile | 🌍 Open to global opportunities
 
-I am a Computer Science and Informatics Engineering student at Universidad Católica del Norte. I am passionate about software architecture, data structures, and building efficient solutions. I am currently focused on advancing my core university studies and aiming for future international exchange opportunities to further my growth in the tech environment.
+I am a Computer Science and Informatics Engineering student at Universidad Católica del Norte. I am focused on building a strong foundation in software architecture, data structures, and database management. Currently, I am advancing my core university studies and actively expanding my technical skillset.
 
-### 💻 Tech Stack & Tools
+### 💻 Tech Stack
 
 **Software Development & Architecture**
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -19,11 +19,11 @@ I am a Computer Science and Informatics Engineering student at Universidad Cató
 
 ---
 
-### 📚 Academic Projects & Coursework
+### 📚 Academic Studies & Core Knowledge
 
-* **Advanced Programming (Current Project):** Collaborating in a 5-member student team to design the core concepts and mechanics for a 2D indie platformer (*Dystrophy*).
-* **Algorithms & Data Structures:** Studied fundamental computational concepts including TF-IDF logic, alongside custom implementations of linked lists, trees, and graphs for coursework.
-* **Digital Logic Laboratory:** Completed academic simulations of sequential logic state machines using TinkerCAD, Karnaugh maps, and flip-flop circuitry.
+* **Data Structures & Algorithms:** Applied academic concepts such as linked lists, trees, and graphs, alongside logic like TF-IDF using Python, Java, and C++.
+* **Digital Logic & Computer Architecture:** Simulated sequential logic state machines and digital circuits using TinkerCAD and Karnaugh maps.
+* **Database Systems:** Studied relational database design and complex SQL querying.
 
 ---
 
