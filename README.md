@@ -3,9 +3,9 @@
 **Computer Science & Informatics Engineering Student** 
 📍 Based in Chile | 🌍 Open to global opportunities
 
-I am a Computer Science and Informatics Engineering student at Universidad Católica del Norte. I am passionate about software architecture, data structures, and building efficient backend systems. Currently, I am structuring my academic goals for an exchange program at RWTH Aachen University in Germany, and actively seeking opportunities to apply my skills in a corporate tech environment.
+I am a Computer Science and Informatics Engineering student at Universidad Católica del Norte. I am passionate about software architecture, data structures, and building efficient solutions. I am currently focused on advancing my core university studies and aiming for future international exchange opportunities to further my growth in the tech environment.
 
-### 💻 Tech Stack & Core Competencies
+### 💻 Tech Stack & Tools
 
 **Software Development & Architecture**
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -19,12 +19,11 @@ I am a Computer Science and Informatics Engineering student at Universidad Cató
 
 ---
 
-### 🚀 Featured Technical Experience
+### 📚 Academic Projects & Coursework
 
-* **Game Development (Dystrophy):** Co-developed a 2D indie platformer game within a 5-member team. Handled core mechanics, progression systems, and applied object-oriented programming principles.
-* **Algorithm Optimization & NLP:** Implemented Term Frequency-Inverse Document Frequency (TF-IDF) algorithms for natural language processing and text analysis.
-* **Digital Logic & Hardware Simulation:** Designed a sequential logic state machine (modeling a Sheikah Slate bomb system) using TinkerCAD, Karnaugh maps, and flip-flop circuitry.
-* **Core Data Structures:** Developed and optimized custom implementations of linked lists, trees, and graphs to solve complex computational problems.
+* **Advanced Programming (Current Project):** Collaborating in a 5-member student team to design the core concepts and mechanics for a 2D indie platformer (*Dystrophy*).
+* **Algorithms & Data Structures:** Studied fundamental computational concepts including TF-IDF logic, alongside custom implementations of linked lists, trees, and graphs for coursework.
+* **Digital Logic Laboratory:** Completed academic simulations of sequential logic state machines using TinkerCAD, Karnaugh maps, and flip-flop circuitry.
 
 ---
 
