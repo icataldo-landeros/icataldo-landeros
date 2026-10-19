@@ -1,6 +1,6 @@
 # Hi there, I'm Ignacio Cataldo Landeros 👋
 
-**Computer Science & Informatics Engineering Student** 
+**Civil Engineering in Computer Science & Informatics Student**
 📍 Based in Chile | 🌍 Open to global opportunities
 
 I am a Computer Science and Informatics Engineering student at Universidad Católica del Norte. I am focused on building a strong foundation in software architecture, data structures, and database management. Currently, I am advancing my core university studies and actively expanding my technical skillset.
